@@ -1,4 +1,4 @@
-const words = ["Game Developer", "Web Developer", "Siswa RPL"];
+const words = ["Seorang pelajar smk", "sedang belajar ", "web developer dan programmer"];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
